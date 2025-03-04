@@ -9,6 +9,7 @@ data = {
     'Math': [85, 92, 78, 95],
     'Science': [88, 85, 90, 92]
 }
+# Creating a pandas DataFrame from the given data, enabling easy data manipulation and analysis.
 df = pd.DataFrame(data)
 
 # Plot Math scores
